@@ -121,6 +121,7 @@ public class ExchangePage extends TestBase {
 	}
 	public void enterSellCustLimitTxt(String atprise) {
 		sell_cust_limit_txt.click();
+		sell_cust_limit_txt.clear();
 		sell_cust_limit_txt.sendKeys(atprise);
 	}
 	
