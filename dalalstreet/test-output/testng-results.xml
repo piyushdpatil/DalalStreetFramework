@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T20:20:07 IST" name="Regration Suite" finished-at="2023-01-05T20:27:43 IST" duration-ms="455998">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T20:20:07 IST" name="Test" finished-at="2023-01-05T20:27:43 IST" duration-ms="455998">
+      <class name="ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:20:49 IST" name="start" finished-at="2023-01-05T20:20:49 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:20:49 IST" name="setup" finished-at="2023-01-05T20:21:21 IST" duration-ms="31978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBuyFunctionality()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:21:21 IST" name="verifyBuyFunctionality" finished-at="2023-01-05T20:21:36 IST" duration-ms="15243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBuyFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:21:36 IST" name="tearDown" finished-at="2023-01-05T20:21:36 IST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:21:36 IST" name="setup" finished-at="2023-01-05T20:22:07 IST" duration-ms="31079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyByFunctinalityWithIntradayandCL()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:22:07 IST" name="verifyByFunctinalityWithIntradayandCL" finished-at="2023-01-05T20:22:23 IST" duration-ms="15391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyByFunctinalityWithIntradayandCL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:22:23 IST" name="tearDown" finished-at="2023-01-05T20:22:23 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:22:23 IST" name="setup" finished-at="2023-01-05T20:22:55 IST" duration-ms="31326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyByFunctinalityWithIntradayandMarket()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:22:55 IST" name="verifyByFunctinalityWithIntradayandMarket" finished-at="2023-01-05T20:23:08 IST" duration-ms="13211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyByFunctinalityWithIntradayandMarket -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:23:08 IST" name="tearDown" finished-at="2023-01-05T20:23:08 IST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:23:08 IST" name="setup" finished-at="2023-01-05T20:23:42 IST" duration-ms="33849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyByFunctinalityWithLTandCL()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:23:42 IST" name="verifyByFunctinalityWithLTandCL" finished-at="2023-01-05T20:23:57 IST" duration-ms="15372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyByFunctinalityWithLTandCL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:23:57 IST" name="tearDown" finished-at="2023-01-05T20:23:58 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="end()[pri:0, instance:ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest@72057ecf]" started-at="2023-01-05T20:23:58 IST" name="end" finished-at="2023-01-05T20:23:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- ai.dalalstreet.apps.TestLayer.BuyFunctionalityTest -->
+      <class name="ai.dalalstreet.apps.TestLayer.LoginPageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:ai.dalalstreet.apps.TestLayer.LoginPageTest@1dde4cb2]" started-at="2023-01-05T20:20:07 IST" name="start" finished-at="2023-01-05T20:20:08 IST" duration-ms="461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.LoginPageTest@1dde4cb2]" started-at="2023-01-05T20:20:08 IST" name="setup" finished-at="2023-01-05T20:20:48 IST" duration-ms="40478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLogin()[pri:0, instance:ai.dalalstreet.apps.TestLayer.LoginPageTest@1dde4cb2]" started-at="2023-01-05T20:20:48 IST" name="VerifyLogin" finished-at="2023-01-05T20:20:48 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.LoginPageTest@1dde4cb2]" started-at="2023-01-05T20:20:48 IST" name="tearDown" finished-at="2023-01-05T20:20:49 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="end()[pri:0, instance:ai.dalalstreet.apps.TestLayer.LoginPageTest@1dde4cb2]" started-at="2023-01-05T20:20:49 IST" name="end" finished-at="2023-01-05T20:20:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- ai.dalalstreet.apps.TestLayer.LoginPageTest -->
+      <class name="ai.dalalstreet.apps.TestLayer.SellFunctionalityTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:23:58 IST" name="start" finished-at="2023-01-05T20:23:58 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:23:58 IST" name="setup" finished-at="2023-01-05T20:24:30 IST" duration-ms="32491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySellFunctionalityIntradayandCL()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:24:30 IST" name="verifySellFunctionalityIntradayandCL" finished-at="2023-01-05T20:24:56 IST" duration-ms="25377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySellFunctionalityIntradayandCL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:24:56 IST" name="tearDown" finished-at="2023-01-05T20:24:56 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:24:56 IST" name="setup" finished-at="2023-01-05T20:25:28 IST" duration-ms="32040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySellFunctionalityIntradayandMarket()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:25:28 IST" name="verifySellFunctionalityIntradayandMarket" finished-at="2023-01-05T20:25:50 IST" duration-ms="22169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySellFunctionalityIntradayandMarket -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:25:50 IST" name="tearDown" finished-at="2023-01-05T20:25:51 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:25:51 IST" name="setup" finished-at="2023-01-05T20:26:21 IST" duration-ms="30737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySellFunctionalityLTandCL()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:26:21 IST" name="verifySellFunctionalityLTandCL" finished-at="2023-01-05T20:26:47 IST" duration-ms="25380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySellFunctionalityLTandCL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:26:47 IST" name="tearDown" finished-at="2023-01-05T20:26:47 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:26:47 IST" name="setup" finished-at="2023-01-05T20:27:21 IST" duration-ms="33713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySellFunctionalityLTandMarket()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:27:21 IST" name="verifySellFunctionalityLTandMarket" finished-at="2023-01-05T20:27:43 IST" duration-ms="22153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySellFunctionalityLTandMarket -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:27:43 IST" name="tearDown" finished-at="2023-01-05T20:27:43 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="end()[pri:0, instance:ai.dalalstreet.apps.TestLayer.SellFunctionalityTest@1afd44cb]" started-at="2023-01-05T20:27:43 IST" name="end" finished-at="2023-01-05T20:27:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- ai.dalalstreet.apps.TestLayer.SellFunctionalityTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Regration Suite -->
+</testng-results>

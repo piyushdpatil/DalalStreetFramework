@@ -1,0 +1,398 @@
+2023-01-02 22:57:20,535 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-02 22:57:38,400 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-02 22:57:38,433 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-02 22:57:54,022 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-02 22:57:54,033 - DalalStreet Automation Framework -INFO -  Execution Stared.VerifyLogin
+2023-01-02 22:57:54,050 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.VerifyLogin
+2023-01-02 22:57:54,289 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-02 22:57:54,293 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-02 22:57:54,301 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-02 22:58:11,581 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-02 22:58:11,600 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-02 22:58:27,171 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-02 22:58:27,174 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyBuyFunctionality
+2023-01-02 22:58:32,725 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-02 22:58:39,067 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-02 22:58:42,106 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyBuyFunctionality
+2023-01-02 22:58:42,381 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-02 22:59:00,420 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-02 22:59:00,421 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-02 22:59:15,999 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-02 22:59:16,002 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithLTandCL
+2023-01-02 22:59:21,591 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-02 22:59:29,185 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-02 22:59:31,235 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithLTandCL
+2023-01-02 22:59:31,477 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-02 22:59:31,479 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-02 22:59:31,483 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-02 22:59:47,261 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-02 22:59:47,262 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-02 23:00:02,828 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-02 23:00:02,830 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionality
+2023-01-02 23:00:08,305 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-02 23:00:21,723 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-02 23:00:24,760 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionality
+2023-01-02 23:00:25,009 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-02 23:00:25,011 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-03 22:39:12,691 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-03 22:39:32,721 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 22:39:33,095 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 22:39:48,706 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 22:39:48,715 - DalalStreet Automation Framework -INFO -  Execution Stared.VerifyLogin
+2023-01-03 22:39:48,732 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.VerifyLogin
+2023-01-03 22:39:49,018 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 22:39:49,024 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-03 22:39:49,035 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-03 22:40:05,687 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 22:40:05,691 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 22:40:21,244 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 22:40:21,246 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyBuyFunctionality
+2023-01-03 22:40:26,755 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-03 22:40:33,336 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-03 22:40:36,386 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyBuyFunctionality
+2023-01-03 22:40:36,672 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 22:40:53,903 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 22:40:53,908 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 22:41:09,423 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 22:41:09,425 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandCL
+2023-01-03 22:41:14,976 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-03 22:41:22,733 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-03 22:41:24,779 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithIntradayandCL
+2023-01-03 22:41:25,067 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 22:41:43,833 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 22:41:43,835 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 22:41:59,424 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 22:41:59,426 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandMarket
+2023-01-03 22:42:04,937 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-03 22:42:09,459 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-03 22:42:16,521 - DalalStreet Automation Framework -INFO - Test Case Execution Failed.verifyByFunctinalityWithIntradayandMarket
+2023-01-03 22:42:16,724 - DalalStreet Automation Framework -INFO - Screen Shot
+2023-01-03 22:42:16,998 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 22:42:34,056 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 22:42:34,058 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 22:42:49,677 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 22:42:49,678 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithLTandCL
+2023-01-03 22:42:55,201 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-03 22:43:02,990 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-03 22:43:05,035 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithLTandCL
+2023-01-03 22:43:05,381 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 22:43:05,383 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-03 22:43:05,389 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-03 22:43:23,215 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 22:43:23,222 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 22:43:38,855 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 22:43:38,858 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionality
+2023-01-03 22:43:44,335 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-03 22:43:57,700 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-03 22:44:00,755 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionality
+2023-01-03 22:44:01,043 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 22:44:01,045 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-03 23:19:49,067 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-03 23:20:05,327 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:20:05,384 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:20:20,901 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:20:20,913 - DalalStreet Automation Framework -INFO -  Execution Stared.VerifyLogin
+2023-01-03 23:20:20,932 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.VerifyLogin
+2023-01-03 23:20:21,211 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:20:21,214 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-03 23:20:21,222 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-03 23:20:37,733 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:20:37,735 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:20:53,396 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:20:53,398 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyBuyFunctionality
+2023-01-03 23:20:59,010 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-03 23:21:05,539 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-03 23:21:08,596 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyBuyFunctionality
+2023-01-03 23:21:08,899 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:21:23,966 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:21:23,970 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:21:39,579 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:21:39,582 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandCL
+2023-01-03 23:21:45,093 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-03 23:21:52,890 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-03 23:21:54,933 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithIntradayandCL
+2023-01-03 23:21:55,225 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:22:11,516 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:22:11,518 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:22:27,118 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:22:27,120 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandMarket
+2023-01-03 23:22:32,705 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-03 23:22:37,238 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-03 23:22:44,270 - DalalStreet Automation Framework -INFO - Test Case Execution Failed.verifyByFunctinalityWithIntradayandMarket
+2023-01-03 23:22:44,413 - DalalStreet Automation Framework -INFO - Screen Shot
+2023-01-03 23:22:44,686 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:23:01,432 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:23:01,434 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:23:17,021 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:23:17,024 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithLTandCL
+2023-01-03 23:23:22,580 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-03 23:23:30,325 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-03 23:23:32,367 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithLTandCL
+2023-01-03 23:23:32,656 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:23:32,658 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-03 23:23:32,664 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-03 23:23:38,028 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:23:38,031 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:23:53,876 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:23:53,881 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityIntradayandCL
+2023-01-03 23:23:59,523 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-03 23:24:16,268 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-03 23:24:24,337 - DalalStreet Automation Framework -INFO - Test Case Execution Failed.verifySellFunctionalityIntradayandCL
+2023-01-03 23:24:24,499 - DalalStreet Automation Framework -INFO - Screen Shot
+2023-01-03 23:24:24,780 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:24:41,771 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:24:41,773 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:24:57,340 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:24:57,342 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityIntradayandMarket
+2023-01-03 23:25:02,856 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-03 23:25:16,453 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-03 23:25:24,520 - DalalStreet Automation Framework -INFO - Test Case Execution Failed.verifySellFunctionalityIntradayandMarket
+2023-01-03 23:25:24,651 - DalalStreet Automation Framework -INFO - Screen Shot
+2023-01-03 23:25:24,933 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:25:41,557 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:25:41,561 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:25:57,165 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:25:57,167 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityLTandCL
+2023-01-03 23:26:02,653 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-03 23:26:19,425 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-03 23:26:27,491 - DalalStreet Automation Framework -INFO - Test Case Execution Failed.verifySellFunctionalityLTandCL
+2023-01-03 23:26:27,629 - DalalStreet Automation Framework -INFO - Screen Shot
+2023-01-03 23:26:27,897 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:26:33,405 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-03 23:26:33,406 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-03 23:26:49,040 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-03 23:26:49,041 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityLTandMarket
+2023-01-03 23:26:54,622 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-03 23:27:08,191 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-03 23:27:11,237 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityLTandMarket
+2023-01-03 23:27:11,526 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-03 23:27:11,527 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-04 18:50:45,131 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-04 18:51:12,064 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:51:12,225 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:51:28,087 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:51:28,099 - DalalStreet Automation Framework -INFO -  Execution Stared.VerifyLogin
+2023-01-04 18:51:28,117 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.VerifyLogin
+2023-01-04 18:51:28,803 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:51:28,820 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-04 18:51:28,829 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-04 18:51:46,317 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:51:46,325 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:52:02,020 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:52:02,028 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyBuyFunctionality
+2023-01-04 18:52:08,063 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-04 18:52:14,617 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-04 18:52:22,697 - DalalStreet Automation Framework -INFO - Test Case Execution Failed.verifyBuyFunctionality
+2023-01-04 18:52:22,892 - DalalStreet Automation Framework -INFO - Screen Shot
+2023-01-04 18:52:23,146 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:52:38,780 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:52:38,782 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:52:54,467 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:52:54,469 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandCL
+2023-01-04 18:53:00,043 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-04 18:53:08,096 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-04 18:53:10,158 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithIntradayandCL
+2023-01-04 18:53:10,509 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:53:26,817 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:53:26,819 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:53:42,458 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:53:42,461 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandMarket
+2023-01-04 18:53:48,042 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-04 18:53:52,604 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-04 18:53:55,644 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithIntradayandMarket
+2023-01-04 18:53:55,962 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:54:11,823 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:54:11,827 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:54:27,687 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:54:27,690 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithLTandCL
+2023-01-04 18:54:33,420 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-04 18:54:41,240 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-04 18:54:43,321 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithLTandCL
+2023-01-04 18:54:43,582 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:54:43,584 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-04 18:54:43,590 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-04 18:55:00,732 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:55:00,734 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:55:16,416 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:55:16,425 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityIntradayandCL
+2023-01-04 18:55:22,078 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-04 18:55:38,974 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-04 18:55:42,043 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityIntradayandCL
+2023-01-04 18:55:42,437 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:55:59,674 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:55:59,677 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:56:15,734 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:56:15,736 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityIntradayandMarket
+2023-01-04 18:56:21,909 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-04 18:56:35,732 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-04 18:56:38,778 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityIntradayandMarket
+2023-01-04 18:56:39,125 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:56:55,786 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:56:55,787 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:57:11,567 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:57:11,569 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityLTandCL
+2023-01-04 18:57:17,242 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-04 18:57:35,180 - DalalStreet Automation Framework -INFO - Test Case Execution Failed.verifySellFunctionalityLTandCL
+2023-01-04 18:57:36,036 - DalalStreet Automation Framework -INFO - Screen Shot
+2023-01-04 18:57:36,546 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:57:52,641 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 18:57:52,642 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 18:58:08,288 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 18:58:08,290 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityLTandMarket
+2023-01-04 18:58:13,962 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-04 18:58:28,823 - DalalStreet Automation Framework -INFO - Test Case Execution Failed.verifySellFunctionalityLTandMarket
+2023-01-04 18:58:29,662 - DalalStreet Automation Framework -INFO - Screen Shot
+2023-01-04 18:58:30,064 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 18:58:30,065 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-04 21:01:10,731 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-04 21:01:29,001 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:01:29,069 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:01:44,848 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:01:44,859 - DalalStreet Automation Framework -INFO -  Execution Stared.VerifyLogin
+2023-01-04 21:01:44,889 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.VerifyLogin
+2023-01-04 21:01:45,283 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:01:45,285 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-04 21:01:45,292 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-04 21:02:03,924 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:02:03,929 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:02:19,655 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:02:19,657 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyBuyFunctionality
+2023-01-04 21:02:25,222 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-04 21:02:31,810 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-04 21:02:34,860 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyBuyFunctionality
+2023-01-04 21:02:35,447 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:02:51,278 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:02:51,281 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:03:06,979 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:03:06,981 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandCL
+2023-01-04 21:03:12,576 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-04 21:03:20,463 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-04 21:03:22,503 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithIntradayandCL
+2023-01-04 21:03:22,906 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:03:39,069 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:03:39,074 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:03:54,755 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:03:54,758 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandMarket
+2023-01-04 21:04:00,342 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-04 21:04:04,986 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-04 21:04:08,027 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithIntradayandMarket
+2023-01-04 21:04:08,455 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:04:24,244 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:04:24,248 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:04:39,935 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:04:39,937 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithLTandCL
+2023-01-04 21:04:45,533 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-04 21:04:53,409 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-04 21:04:55,455 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithLTandCL
+2023-01-04 21:04:55,891 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:04:55,892 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-04 21:04:55,898 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-04 21:05:13,331 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:05:13,333 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:05:29,155 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:05:29,157 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityIntradayandCL
+2023-01-04 21:05:34,732 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-04 21:05:51,657 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-04 21:05:54,697 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityIntradayandCL
+2023-01-04 21:05:55,081 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:06:11,616 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:06:11,617 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:06:27,244 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:06:27,245 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityIntradayandMarket
+2023-01-04 21:06:32,806 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-04 21:06:46,481 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-04 21:06:49,523 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityIntradayandMarket
+2023-01-04 21:06:49,926 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:07:05,887 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:07:05,889 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:07:21,614 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:07:21,615 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityLTandCL
+2023-01-04 21:07:27,277 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-04 21:07:44,114 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-04 21:07:47,158 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityLTandCL
+2023-01-04 21:07:47,528 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:08:05,529 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-04 21:08:05,532 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-04 21:08:21,174 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-04 21:08:21,176 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityLTandMarket
+2023-01-04 21:08:26,717 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-04 21:08:40,338 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-04 21:08:43,378 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityLTandMarket
+2023-01-04 21:08:43,793 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-04 21:08:43,794 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-05 20:20:08,238 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-05 20:20:32,680 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:20:32,752 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:20:48,784 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:20:48,793 - DalalStreet Automation Framework -INFO -  Execution Stared.VerifyLogin
+2023-01-05 20:20:48,811 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.VerifyLogin
+2023-01-05 20:20:49,244 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:20:49,246 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-05 20:20:49,253 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-05 20:21:05,623 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:21:05,626 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:21:21,232 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:21:21,236 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyBuyFunctionality
+2023-01-05 20:21:26,829 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-05 20:21:33,385 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-05 20:21:36,478 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyBuyFunctionality
+2023-01-05 20:21:36,867 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:21:52,328 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:21:52,330 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:22:07,947 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:22:07,948 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandCL
+2023-01-05 20:22:13,481 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-05 20:22:21,291 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-05 20:22:23,340 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithIntradayandCL
+2023-01-05 20:22:23,718 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:22:39,464 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:22:39,466 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:22:55,044 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:22:55,046 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithIntradayandMarket
+2023-01-05 20:23:00,653 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-05 20:23:05,208 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-05 20:23:08,257 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithIntradayandMarket
+2023-01-05 20:23:08,641 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:23:26,916 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:23:26,919 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:23:42,492 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:23:42,494 - DalalStreet Automation Framework -INFO -  Execution Stared.verifyByFunctinalityWithLTandCL
+2023-01-05 20:23:48,002 - DalalStreet Automation Framework -INFO - Go to dashboard and search Company
+2023-01-05 20:23:55,814 - DalalStreet Automation Framework -INFO - select category, quentity, and buy stockes
+2023-01-05 20:23:57,866 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifyByFunctinalityWithLTandCL
+2023-01-05 20:23:58,265 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:23:58,266 - DalalStreet Automation Framework -INFO - Framework execution stopped
+2023-01-05 20:23:58,272 - DalalStreet Automation Framework -INFO - Framework execution started
+2023-01-05 20:24:15,176 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:24:15,182 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:24:30,765 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:24:30,767 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityIntradayandCL
+2023-01-05 20:24:36,348 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-05 20:24:53,107 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-05 20:24:56,145 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityIntradayandCL
+2023-01-05 20:24:56,519 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:25:12,995 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:25:12,997 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:25:28,560 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:25:28,562 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityIntradayandMarket
+2023-01-05 20:25:34,090 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-05 20:25:47,684 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-05 20:25:50,731 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityIntradayandMarket
+2023-01-05 20:25:51,104 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:26:06,287 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:26:06,292 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:26:21,842 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:26:21,847 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityLTandCL
+2023-01-05 20:26:27,413 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-05 20:26:44,188 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-05 20:26:47,224 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityLTandCL
+2023-01-05 20:26:47,604 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:27:05,743 - DalalStreet Automation Framework -INFO - Browser lounch / maximaze window / delete all cookies / lounch URL 
+2023-01-05 20:27:05,746 - DalalStreet Automation Framework -INFO - Object creation
+2023-01-05 20:27:21,319 - DalalStreet Automation Framework -INFO - Login into Dalalstreet
+2023-01-05 20:27:21,321 - DalalStreet Automation Framework -INFO -  Execution Stared.verifySellFunctionalityLTandMarket
+2023-01-05 20:27:26,834 - DalalStreet Automation Framework -INFO - Go to portfolio page and click on trade
+2023-01-05 20:27:40,428 - DalalStreet Automation Framework -INFO - select category, quentity, and Sell stockes
+2023-01-05 20:27:43,473 - DalalStreet Automation Framework -INFO - Test Case Executed Successfully.verifySellFunctionalityLTandMarket
+2023-01-05 20:27:43,781 - DalalStreet Automation Framework -INFO - Close Browser
+2023-01-05 20:27:43,784 - DalalStreet Automation Framework -INFO - Framework execution stopped
