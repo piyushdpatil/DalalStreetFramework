@@ -31,7 +31,7 @@ public class BuyFunctionalityTest extends TestBase {
 		String actualResult = exchange.getMStatus();
 		String ExpectedResult = "Order Created successfully";
 		System.out.println(actualResult);
-		Assert.assertEquals(actualResult, ExpectedResult);
+		Assert.assertEquals(actualResult, ExpectedResult); // Kindly mention the details
 	}
 	
 	@Test
